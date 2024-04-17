@@ -37,3 +37,4 @@ C:\Users\Volodymyr\RiderProjects\APBD_06\APBD_06\obj\Debug\net8.0\refint\APBD_06
 C:\Users\Volodymyr\RiderProjects\APBD_06\APBD_06\obj\Debug\net8.0\APBD_06.pdb
 C:\Users\Volodymyr\RiderProjects\APBD_06\APBD_06\obj\Debug\net8.0\APBD_06.genruntimeconfig.cache
 C:\Users\Volodymyr\RiderProjects\APBD_06\APBD_06\obj\Debug\net8.0\ref\APBD_06.dll
+C:\Users\Volodymyr\RiderProjects\APBD_06\APBD_06\obj\Debug\net8.0\APBD_06.sourcelink.json
